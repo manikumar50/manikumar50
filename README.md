@@ -34,12 +34,12 @@ Welcome to my GitHub page! I'm a **Java Backend Developer** passionate about cre
 
 ## 📂 Projects
 
-### 🔹 [E-Commerce Application](#) ##On Going..
+### 🔹 [E-Commerce Application](https://github.com/manikumar50/AHZ-Shopping) ###On Going...
 - Developed an e-commerce platform with **Spring Boot**, **Spring MVC**, and **Thymeleaf**.
 - Implemented product listing, category filtering, and secure user authentication.
 - Utilized MySQL for database management.
 
-### 🔹 [Banking Application](#) ##On Going..
+### 🔹 [Banking Application](#) ###On Going...
 - Built a simple banking app for account management, transactions, and balance tracking.
 - Used REST APIs for service integration and implemented robust exception handling.
 
