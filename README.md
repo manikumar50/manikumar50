@@ -34,18 +34,14 @@ Welcome to my GitHub page! I'm a **Java Backend Developer** passionate about cre
 
 ## 📂 Projects
 
-### 🔹 [E-Commerce Application](#)
+### 🔹 [E-Commerce Application](#) ##On Going..
 - Developed an e-commerce platform with **Spring Boot**, **Spring MVC**, and **Thymeleaf**.
 - Implemented product listing, category filtering, and secure user authentication.
 - Utilized MySQL for database management.
 
-### 🔹 [Banking Application](#)
+### 🔹 [Banking Application](#) ##On Going..
 - Built a simple banking app for account management, transactions, and balance tracking.
 - Used REST APIs for service integration and implemented robust exception handling.
-
-### 🔹 [Employee Conflict Resolution and Industrial Harmony](#)
-- Participated in a management project to analyze and address workplace conflicts.
-- Developed strategies to improve productivity and industrial harmony.
 
 ### 🔹 [3D Jet Fighters Game](#)
 - Contributed as a **Game Designer and Tester**.
@@ -54,9 +50,9 @@ Welcome to my GitHub page! I'm a **Java Backend Developer** passionate about cre
 ---
 
 ## 📫 Contact Me
-
-- 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+ 
+- 📧 Email: [YourEmail@example.com](mailto:manikumaraocker@gmail.com)
+- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/manikumar-m/)
 
 ---
 
