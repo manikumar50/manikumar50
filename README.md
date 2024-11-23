@@ -51,8 +51,8 @@ Welcome to my GitHub page! I'm a **Java Backend Developer** passionate about cre
 
 ## 📫 Contact Me
  
-- 📧 Email: [YourEmail@example.com](mailto:manikumaraocker@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/manikumar-m/)
+- 📧 Email: [manikumaraocker@gmail.com](mailto:manikumaraocker@gmail.com)
+- 🌐 LinkedIn: [LinkedIn/MANIKUMAR M/](https://www.linkedin.com/in/manikumar-m/)
 
 ---
 
