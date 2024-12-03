@@ -1,4 +1,4 @@
-# 💻 Java Backend Developer Portfolio
+# 💻 Java Backend Developer
 
 Welcome to my GitHub page! I'm a **Java Backend Developer** passionate about creating efficient, scalable, and maintainable backend systems. This space showcases my journey, skills, and projects.
 
